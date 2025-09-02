@@ -1,3 +1,3 @@
 # Assignment
-Assignment1.py can add, subtract, multiply and divide the two numbers.
-Assignment2.py =It is a greeting message the user insert his first and last name and the code brings out the output.
+Assignment2(Task1).py can tell whether the number entered by user is an even or odd number.
+Assignment2(Task1).py =It is a code made by from (for loop) describing range 1-50 and adding the sum of integer.
